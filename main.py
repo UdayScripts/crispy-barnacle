@@ -3,6 +3,7 @@ import requests
 import os
 import math
 from telebot.types import Message
+from keep_alive import keep_alive
 
 # Replace with your bot token and channel username
 BOT_TOKEN = "8142385461:AAFUCFo0ngYrMsGovyquODaFJ5cvd0kgSLQ"
